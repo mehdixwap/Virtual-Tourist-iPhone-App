@@ -1,9 +1,9 @@
 //
 //  IJReachability.swift
-//  IJReachability
+//  Virtual Tourist
 //
-//  Created by Isuru Nanayakkara on 1/14/15.
-//  Copyright (c) 2015 Appex. All rights reserved.
+//  Created by Mehdi Salemi on 2016-04-10.
+//  Copyright © 2016 MxMd. All rights reserved.
 //
 
 import Foundation
